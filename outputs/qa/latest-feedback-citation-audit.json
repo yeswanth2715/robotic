@@ -1,0 +1,57 @@
+{
+  "bibliography_entries": 10,
+  "checks": [
+    {
+      "source": "Caporali 2026",
+      "likely_cited": true
+    },
+    {
+      "source": "Malvido Fresnillo 2023",
+      "likely_cited": true
+    },
+    {
+      "source": "Wu 2022",
+      "likely_cited": true
+    },
+    {
+      "source": "Holešovský 2024",
+      "likely_cited": true
+    },
+    {
+      "source": "Holešovský 2026",
+      "likely_cited": true
+    },
+    {
+      "source": "Arriola-Rios 2020",
+      "likely_cited": true
+    },
+    {
+      "source": "Sanchez 2018",
+      "likely_cited": true
+    },
+    {
+      "source": "Zhu 2022",
+      "likely_cited": true
+    },
+    {
+      "source": "UIUC RMDLO 2026",
+      "likely_cited": true
+    },
+    {
+      "source": "Saunders 2019",
+      "likely_cited": true
+    }
+  ],
+  "uncited_bibliography_entries": [],
+  "abstract_words": 189,
+  "docx": "outputs\\final-dissertation.docx",
+  "mirror_docx": "outputs\\project5-final-dissertation.docx",
+  "abstract_replaced": true,
+  "citation_patches_applied": 3,
+  "citation_patch_targets": [
+    "Caporali et al. (2026) describe DLOs as objects whose linear geometry ",
+    "A smaller route is to use a sample subset, locally collected images, o",
+    "The research philosophy is pragmatic because the study judges the meth"
+  ],
+  "table_9_cleaned": true
+}

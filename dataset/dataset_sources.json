@@ -1,0 +1,34 @@
+{
+  "tum_dlo": {
+    "name": "Dataset for Instance Segmentation of Deformable Linear Objects",
+    "role": "Final real-image benchmark; S1/S2 training and validation, S3 held-out testing.",
+    "public_url": "https://mediatum.ub.tum.de/1690303",
+    "doi": "https://doi.org/10.14459/2022mp1690303",
+    "licence": "CC BY-SA 4.0",
+    "local_large_file_excluded": "tum_dlo_dataset.zip"
+  },
+  "wireseg_36k": {
+    "name": "DeformX/WireSeg-36K",
+    "role": "Synthetic/real cable segmentation source; reproducible sampled metadata retained.",
+    "public_url": "https://huggingface.co/datasets/DeformX/WireSeg-36K",
+    "project_url": "https://deformx.github.io/",
+    "licence": "CC BY 4.0",
+    "local_large_file_excluded": "wireseg cached arrays and downloaded parquet/image data"
+  },
+  "movingcables": {
+    "name": "MovingCables",
+    "role": "Inspected as an alternative cable dataset; excluded from quantitative claims after label-format inspection.",
+    "public_url": "https://zenodo.org/records/14627726",
+    "code_url": "https://github.com/holesond/movingcables",
+    "doi": "https://doi.org/10.5281/zenodo.14627726",
+    "licence": "CC BY-SA 4.0 for dataset; MIT for source repository",
+    "local_large_file_excluded": "MovingCables_sample.tar"
+  },
+  "fastdlo": {
+    "name": "FASTDLO",
+    "role": "Published DLO segmentation comparator and adapted ResNet-101 route.",
+    "paper_doi": "https://doi.org/10.1109/LRA.2022.3189791",
+    "weights_url": "https://mega.nz/file/YNsmnYwa#y9DiZEly-MQ_s8vHifSCDZLghaOe89pd4tZKQ5IOEME",
+    "local_large_file_excluded": "FASTDLO weights and adapted checkpoints"
+  }
+}

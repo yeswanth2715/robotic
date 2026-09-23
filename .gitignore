@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Large model/data binaries
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Raw or extracted data restored locally for reruns
+data/
+datasets/
+raw/
+extracted/
+
+# External FASTDLO clone/weights restored locally for reruns
+code/fastdlo_src/
+**/weights/
+
+# Render/test noise
+render_pages/
+latest_render_contact_sheets/
+*.tmp

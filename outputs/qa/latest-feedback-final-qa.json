@@ -1,0 +1,75 @@
+{
+  "docx": "outputs\\final-dissertation.docx",
+  "mirror_docx": "outputs\\project5-final-dissertation.docx",
+  "abstract_words": 189,
+  "table_rebuild": {
+    "table_index": 6,
+    "row_count": 7,
+    "column_count": 6,
+    "header": [
+      "Method and evaluation",
+      "Precision",
+      "Recall",
+      "F1",
+      "IoU",
+      "Mean latency / FPS"
+    ],
+    "matches_expected": true
+  },
+  "citation_audit": {
+    "bibliography_entries_visible": 10,
+    "checks": [
+      {
+        "source": "Caporali 2026",
+        "likely_cited": true
+      },
+      {
+        "source": "Malvido Fresnillo 2023",
+        "likely_cited": true
+      },
+      {
+        "source": "Wu 2022",
+        "likely_cited": true
+      },
+      {
+        "source": "Holesovsky 2024",
+        "likely_cited": true
+      },
+      {
+        "source": "Holesovsky 2026",
+        "likely_cited": true
+      },
+      {
+        "source": "Arriola-Rios 2020",
+        "likely_cited": true
+      },
+      {
+        "source": "Sanchez 2018",
+        "likely_cited": true
+      },
+      {
+        "source": "Zhu 2022",
+        "likely_cited": true
+      },
+      {
+        "source": "UIUC RMDLO 2026",
+        "likely_cited": true
+      },
+      {
+        "source": "Saunders 2019",
+        "likely_cited": true
+      }
+    ],
+    "uncited_expected_sources": []
+  },
+  "meta_language_flags": {
+    "professor feedback": false,
+    "feedback required": false,
+    "high distinction": false,
+    "pre-human": false,
+    "humaniser": false,
+    "should be added": false,
+    "will be completed": false,
+    "student dissertation": false
+  }
+}
